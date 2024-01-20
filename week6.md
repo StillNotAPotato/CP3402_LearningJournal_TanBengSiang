@@ -38,10 +38,14 @@ Listed below are the links to the group's collaborative tools:
 * Daily stand-up: https://jamboard.google.com/d/13ioBTYugC6YwWDIpfm3NOoIUAI48Mkwp06f5cjBfTmg/viewer
 
 Listed below are proof of usage of the above-mentioned tools:
-![Slack channel](image.png)
+# Team's Slack channel
+![image](https://github.com/StillNotAPotato/CP3402_LearningJournal_TanBengSiang/assets/108881455/01d51a27-d491-467b-b0f5-9b8714a3be04)
 
-![Trello board](image-1.png)
+# Team's Trello board
+![image](https://github.com/StillNotAPotato/CP3402_LearningJournal_TanBengSiang/assets/108881455/83ada712-0f8a-4533-981f-6fee815f59f2)
 
-![Github repo](image-2.png)
+# Team's Github Repository
+![image](https://github.com/StillNotAPotato/CP3402_LearningJournal_TanBengSiang/assets/108881455/d0df7015-9b55-4a23-ad34-15150e2b8825)
 
-![Daily standup](image-3.png)
+#Daily stand-up documentation
+![image](https://github.com/StillNotAPotato/CP3402_LearningJournal_TanBengSiang/assets/108881455/be7e7064-cf6a-47bc-8908-f02106b66adc)
