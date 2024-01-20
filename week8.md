@@ -15,10 +15,12 @@ Scientific Method Approach
 
 1. Observation
 * Establish clear communication channels, identify key areas of a WordPress workflow (theme development, ). (taking reference from the following article: (WordPress Development Workflow: Ultimate Guide written by Regina Patil, November 14, 2023))
+![image](https://github.com/StillNotAPotato/CP3402_LearningJournal_TanBengSiang/assets/108881455/a29d02ff-bccb-46cf-9e54-a8fb9a6876da)
 
 2. Research
 * Selecting local development environment
 * Selecting a version control system
+![image](https://github.com/StillNotAPotato/CP3402_LearningJournal_TanBengSiang/assets/108881455/58d62ef8-cb4f-409a-aaa6-dc06315270f2)
 
 
 
