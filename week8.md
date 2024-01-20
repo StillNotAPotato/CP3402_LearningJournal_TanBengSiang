@@ -16,7 +16,6 @@ Scientific Method Approach
 1. Observation
 * Establish clear communication channels (taking reference from the following article: (WordPress Development Workflow: Ultimate Guide written by Regina Patil, November 14, 2023))
 
-* Setting Up 
 
 
 # Career/Employability Insights
