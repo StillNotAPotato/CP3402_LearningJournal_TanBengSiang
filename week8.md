@@ -14,7 +14,12 @@ Time-bound: By the end of next week, I should be more familiar and competent wit
 Scientific Method Approach
 
 1. Observation
-* Establish clear communication channels (taking reference from the following article: (WordPress Development Workflow: Ultimate Guide written by Regina Patil, November 14, 2023))
+* Establish clear communication channels, identify key areas of a WordPress workflow (theme development, ). (taking reference from the following article: (WordPress Development Workflow: Ultimate Guide written by Regina Patil, November 14, 2023))
+
+2. Research
+* Selecting local development environment
+* Selecting a version control system
+
 
 
 
